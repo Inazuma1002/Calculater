@@ -1,0 +1,1 @@
+localhost ansible_user=manas ansible_connection=local
