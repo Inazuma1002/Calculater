@@ -9,4 +9,4 @@
     # - name: Running Docker Img
     #     shell: docker run -it manas2024/calculator:latest
     - name: creating an updated container
-        shell: docker run -it -d manas2024/calculator:latest
+        shell: docker run -it -d manas2024/calculator
