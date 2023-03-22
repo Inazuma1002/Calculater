@@ -7,4 +7,4 @@
         name: manas2024/calculator
         source: pull
     - name: Running Docker Img
-          command: docker run -it -d manas2024/calculator
+          run: docker run -it -d manas2024/calculator
