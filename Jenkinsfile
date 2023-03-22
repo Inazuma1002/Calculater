@@ -1,6 +1,12 @@
 pipeline {
     agent any
-
+    
+    environment
+    {
+        registry = "manas2024/calculator"
+        registryCredential = "dockerhub_token"
+        dockerImage = ""
+    }
 
     stages {
         
@@ -17,5 +23,13 @@ pipeline {
                 sh 'mvn clean install'
             }
         }
+        
+//         stage('build docker image') {
+//             steps {
+//                 script {
+//                     dockerImage = docker.build(registry + ":latest")
+//                 }
+//             }
+//         }
     }
 }
