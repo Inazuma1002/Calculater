@@ -70,3 +70,27 @@
 22/03/2023:11:40:31 053 [Calculator.java] [ERROR] org.example.Calculator [ERROR - SQRT] - square root function is given -ve number
 22/03/2023:11:40:31 057 [Calculator.java] [INFO] org.example.Calculator [SQRT] - 4.0
 22/03/2023:11:40:31 058 [Calculator.java] [INFO] org.example.Calculator [RESULT - SQRT] - 2.0
+22/03/2023:12:57:49 691 [Calculator.java] [INFO] org.example.Calculator [ADDITION] - 3.5, 1.5
+22/03/2023:12:57:49 697 [Calculator.java] [INFO] org.example.Calculator [RESULT - ADDITION] - 5.0
+22/03/2023:12:57:49 699 [Calculator.java] [INFO] org.example.Calculator [ADDITION] - 5.0, -1.5
+22/03/2023:12:57:49 700 [Calculator.java] [INFO] org.example.Calculator [RESULT - ADDITION] - 3.5
+22/03/2023:12:57:49 701 [Calculator.java] [INFO] org.example.Calculator [ADDITION] - -5.0, -1.5
+22/03/2023:12:57:49 702 [Calculator.java] [INFO] org.example.Calculator [RESULT - ADDITION] - -6.5
+22/03/2023:12:57:49 704 [Calculator.java] [ERROR] org.example.Calculator [ERROR - FACTORIAL] - factorial function does not work with -ve number
+22/03/2023:12:57:49 706 [Calculator.java] [INFO] org.example.Calculator [FACTORIAL] - 5
+22/03/2023:12:57:49 706 [Calculator.java] [INFO] org.example.Calculator [RESULT - FACTORIAL] - 120
+22/03/2023:12:57:49 709 [Calculator.java] [ERROR] org.example.Calculator [ERROR - SQRT] - square root function is given -ve number
+22/03/2023:12:57:49 710 [Calculator.java] [INFO] org.example.Calculator [SQRT] - 4.0
+22/03/2023:12:57:49 710 [Calculator.java] [INFO] org.example.Calculator [RESULT - SQRT] - 2.0
+22/03/2023:13:00:34 779 [Calculator.java] [INFO] org.example.Calculator [ADDITION] - 3.5, 1.5
+22/03/2023:13:00:34 786 [Calculator.java] [INFO] org.example.Calculator [RESULT - ADDITION] - 5.0
+22/03/2023:13:00:34 788 [Calculator.java] [INFO] org.example.Calculator [ADDITION] - 5.0, -1.5
+22/03/2023:13:00:34 789 [Calculator.java] [INFO] org.example.Calculator [RESULT - ADDITION] - 3.5
+22/03/2023:13:00:34 790 [Calculator.java] [INFO] org.example.Calculator [ADDITION] - -5.0, -1.5
+22/03/2023:13:00:34 791 [Calculator.java] [INFO] org.example.Calculator [RESULT - ADDITION] - -6.5
+22/03/2023:13:00:34 793 [Calculator.java] [ERROR] org.example.Calculator [ERROR - FACTORIAL] - factorial function does not work with -ve number
+22/03/2023:13:00:34 794 [Calculator.java] [INFO] org.example.Calculator [FACTORIAL] - 5
+22/03/2023:13:00:34 795 [Calculator.java] [INFO] org.example.Calculator [RESULT - FACTORIAL] - 120
+22/03/2023:13:00:34 798 [Calculator.java] [ERROR] org.example.Calculator [ERROR - SQRT] - square root function is given -ve number
+22/03/2023:13:00:34 799 [Calculator.java] [INFO] org.example.Calculator [SQRT] - 4.0
+22/03/2023:13:00:34 799 [Calculator.java] [INFO] org.example.Calculator [RESULT - SQRT] - 2.0
