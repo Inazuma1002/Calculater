@@ -8,5 +8,5 @@
         source: pull
     # - name: Running Docker Img
     #     shell: docker run -it manas2024/calculator:latest
-- name: creating an updated container
-   shell: docker run -id manas2024/calculator:latest
+    - name: creating an updated container
+        shell: docker run -id manas2024/calculator:latest
