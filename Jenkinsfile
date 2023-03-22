@@ -24,12 +24,12 @@ pipeline {
             }
         }
         
-//         stage('build docker image') {
-//             steps {
-//                 script {
-//                     dockerImage = docker.build(registry + ":latest")
-//                 }
-//             }
-//         }
+        stage('build docker image') {
+            steps {
+                script {
+                    dockerImage = docker.build(registry + ":latest")
+                }
+            }
+        }
     }
 }
