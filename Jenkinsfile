@@ -47,5 +47,14 @@ pipeline {
                 sh "docker rmi $registry:latest" 
             }
         } 
+        
+        stage('Ansible pull image') {
+            steps {
+                ansiblePlaybook colorized: true,
+                installation: 'Ansible',
+                inventory: 'inventory',
+                playbook: 'play2.yml'
+            }
+        }
     }
 }
