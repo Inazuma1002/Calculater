@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="673aad9b-ea8f-4112-9996-61a5dd7831de" name="Changes" comment="yml file">
+    <list default="true" id="673aad9b-ea8f-4112-9996-61a5dd7831de" name="Changes" comment="testing github webhook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Squareroot_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Squareroot_Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679420016144</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="testing github webhook">
+      <created>1679456009690</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679456009690</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -156,6 +163,7 @@
     <MESSAGE value="added ansible file" />
     <MESSAGE value="edited POM file" />
     <MESSAGE value="yml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="yml file" />
+    <MESSAGE value="testing github webhook" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing github webhook" />
   </component>
 </project>

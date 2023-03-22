@@ -23,7 +23,7 @@ public class Squareroot_Test {
     @Test
     public void negative_float() {
         Calculator mycalc = new Calculator();
-        System.out.println("test 2) Squareroot -ve");
+        System.out.println("test 2) Square_root -ve");
         assertEquals("Squareroot -5 not working correctly",-1,mycalc.square_root(-6),0.00001);
     }
 }
