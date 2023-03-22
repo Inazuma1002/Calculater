@@ -6,3 +6,5 @@
       docker_image:
         name: manas2024/calculator
         source: pull
+    - name: Running Docker Img
+          shell: docker run -it -d manas2024/calculator
