@@ -31,5 +31,21 @@ pipeline {
                 }
             }
         }
+        
+        stage('DockerHub Image Push') {
+            steps {
+                script {
+                    docker.withRegistry('', registryCredential) {
+                        dockerImage.push()
+                    }
+                }
+            }
+        }
+        
+        stage('Clean Up') {
+            steps {
+                sh "docker rmi $registry:latest" 
+            }
+        } 
     }
 }
