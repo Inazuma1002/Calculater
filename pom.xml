@@ -27,6 +27,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugin</artifactId>
+                <version>3.3.0</version>
                 <executions>
                     <execution>
                         <phase>package</phase>
@@ -36,7 +37,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>calculator.Calculator</mainClass>
+                                    <mainClass>org.example.Calculator</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
@@ -48,11 +49,13 @@
             </plugin>
         </plugins>
     </build>
+
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>

@@ -1,3 +1,4 @@
+import org.example.Calculator;
 import org.junit.BeforeClass;
 import org.junit.Test;
 

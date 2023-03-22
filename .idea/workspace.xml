@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="673aad9b-ea8f-4112-9996-61a5dd7831de" name="Changes" comment="testing github webhook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Addition_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Addition_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Factorial_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Factorial_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Squareroot_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Squareroot_Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +54,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/manas/miniproject/Calculater&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
